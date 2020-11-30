@@ -11,10 +11,10 @@ Learning continuously is what I always try to do, if every day we learn somethin
 </h3>
 
 <h3>Favorite Stack<h3>
-    <a href="https://pt-br.reactjs.org/">ReactJS </a>
-    <a href="https://reactnative.dev/">React Native </a>
-    <a href="https://nodejs.org/en/">NodeJs</a>
-    <a href="https://www.typescriptlang.org/">Typescript</a>
+    <a href="https://pt-br.reactjs.org/">ReactJS </a>,
+    <a href="https://reactnative.dev/">React Native </a>,
+    <a href="https://nodejs.org/en/">NodeJs</a>,
+    <a href="https://www.typescriptlang.org/">Typescript</a>,
 
 
 
