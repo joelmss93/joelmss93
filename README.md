@@ -7,7 +7,7 @@ Extremely communicative, passionate about front-end and web development, and new
 Learning continuously is what I always try to do, if every day we learn something new, we will be better than yesterday.
 
 <h3>
-    <a href="https://www.linkedin.com/in/joel-modesto/">🔗 Linkedin</a>
+    <a href="https://www.linkedin.com/in/joel-modesto/">Linkedin</a>
 </h3>
 
 <h3>🚀 Favorite Stack<h3>
