@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1>
     <a href="https://github.com/joelmss93">🔗 Joel Modesto</a>
 </h1>
 
