@@ -4,7 +4,7 @@
 
 <h3>ℹ️ About me:</h3>
 Extremely communicative, passionate about front-end and web development and new technologies.
-Learning continuously is what I always try to do, if every day we learn something new, i will be better than yesterday.
+Learning continuously is what I always try to do, if every day we learn something new, I will be better than yesterday.
 
 <h3>
     <a href="https://www.linkedin.com/in/joel-modesto/">Linkedin</a>
