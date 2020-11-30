@@ -12,13 +12,9 @@ Learning continuously is what I always try to do, if every day we learn somethin
 
 <h3>Favorite Stack<h3>
     <a href="https://pt-br.reactjs.org/">ReactJS </a>
-    <br>
     <a href="https://reactnative.dev/">React Native </a>
-    <br>
     <a href="https://nodejs.org/en/">NodeJs</a>
-    <br>
     <a href="https://www.typescriptlang.org/">Typescript</a>
-    <br>
 
 
 
