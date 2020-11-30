@@ -6,11 +6,20 @@
 Extremely communicative, passionate about front-end and web development, and new technologies.
 Learning continuously is what I always try to do, if every day we learn something new, we will be better than yesterday.
 
-<h3>My Stack<h3>
-    <a href="https://pt-br.reactjs.org/">🔗 ReactJS </a>
-    <a href="https://reactnative.dev/">🔗 React Native </a>
-    <a href="https://nodejs.org/en/">🔗 NodeJs</a>
-    <a href="https://www.typescriptlang.org/">🔗 Typescript</a>
+<br>
+<a href="https://www.linkedin.com/in/joel-modesto/">🔗 Linkedin</a>
+
+
+<h3>Favorite Stack<h3>
+    <a href="https://pt-br.reactjs.org/">ReactJS </a>
+    <br>
+    <a href="https://reactnative.dev/">React Native </a>
+    <br>
+    <a href="https://nodejs.org/en/">NodeJs</a>
+    <br>
+    <a href="https://www.typescriptlang.org/">Typescript</a>
+    <br>
+
 
 
     
