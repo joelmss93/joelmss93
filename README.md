@@ -2,12 +2,12 @@
     <a href="https://github.com/joelmss93">🔗 Joel Modesto</a>
 </h2>
 
-<h3>ℹ️ About me:</h3>
+<h3>💡 About me:</h3>
 Extremely communicative, passionate about front-end and web development and new technologies.
 Learning continuously is what I always try to do, if every day we learn something new, I will be better than yesterday.
 
 <h3>
-    <a href="https://www.linkedin.com/in/joel-modesto/">Linkedin</a>
+    📄<a href="https://www.linkedin.com/in/joel-modesto/">Linkedin</a>
 </h3>
 
 <h3>🚀 Favorite Stack<h3>
@@ -16,7 +16,7 @@ Learning continuously is what I always try to do, if every day we learn somethin
     <a href="https://nodejs.org/en/">NodeJs</a>,
     <a href="https://www.typescriptlang.org/">Typescript</a>,
 
-<h4>Learning every day!</h4>
+<h4>🌱Learning every day!</h4>
     
 
 
