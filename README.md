@@ -1,6 +1,6 @@
-<h1>
+<h2>
     <a href="https://github.com/joelmss93">🔗 Joel Modesto</a>
-</h1>
+</h2>
 
 
 <!--
