@@ -2,6 +2,20 @@
     <a href="https://github.com/joelmss93">🔗 Joel Modesto</a>
 </h2>
 
+<h3>About me:</h3>
+Extremely communicative, passionate about front-end and web development, and new technologies.
+Learning continuously is what I always try to do, if every day we learn something new, we will be better than yesterday.
+
+<h3>My Stack<h3>
+    <a href="https://pt-br.reactjs.org/">🔗 ReactJS </a>
+    <a href="https://reactnative.dev/">🔗 React Native </a>
+    <a href="https://nodejs.org/en/">🔗 NodeJs</a>
+    <a href="https://www.typescriptlang.org/">🔗 Typescript</a>
+
+
+    
+   
+
 
 <!--
 **joelmss93/joelmss93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
