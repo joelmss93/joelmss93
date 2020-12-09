@@ -3,7 +3,7 @@
 </h2>
 
 <h3>💡 About me:</h3>
-Extremely communicative, passionate about front-end and web development and new technologies.
+Extremely communicative, passionate about front-end, web and mobile development.
 Learning continuously is what I always try to do, if every day we learn something new, I will be better than yesterday.
 
 <h3>
