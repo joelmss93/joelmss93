@@ -8,5 +8,5 @@
 
 
 <p align="center">
-<img src="https://github.com/joelmss93/joelmss93/blob/main/images/Skills.png" width="800">
+<img src="https://github.com/joelmss93/joelmss93/blob/main/images/Techs.png" width="800">
 </p>
