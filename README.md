@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/joelmss93/joelmss93/blob/main/images/Hero.svg" width="400">
+<img align="right" src="https://github.com/joelmss93/joelmss93/blob/main/images/Hero.svg" width="350">
 
 
 # Joel Modesto
