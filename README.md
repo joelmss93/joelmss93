@@ -2,7 +2,7 @@
 
 
 # Joel Modesto
-#### - Front end developer at 4intelligence.
+#### - Front end developer at Softplan.
 #### - Analysis and Software Development at Fatec - Presidente Prudente
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joel-modesto/)](https://www.linkedin.com/in/joel-modesto/)
